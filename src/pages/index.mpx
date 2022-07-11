@@ -1,0 +1,13 @@
+<template>
+  <m-list></m-list>
+</template>
+
+<script src="./index.ts"></script>
+
+<script type="application/json">
+  {
+    "usingComponents": {
+      "m-list": "../components/list"
+    }
+  }
+</script>
